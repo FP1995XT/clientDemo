@@ -1,0 +1,5 @@
+server:
+  port: 7906
+spring:
+  application:
+    name: demoClient
